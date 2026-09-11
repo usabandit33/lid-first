@@ -1,14 +1,16 @@
 # Contacts (operator-only)
 
-Phones copied from each shop’s own site. Do not invent inboxes.
+Phones and emails copied from each shop’s own site. Do not invent inboxes.
 
-## Sequence-eligible (published email on shop site)
+## Live on charlotte.html (2026-09-11) — all sequence-eligible
 1. Autry’s Backhoe and Septic Service — 704-504-8830 — autryseptic@yahoo.com — https://www.autryseptic.com/
+2. Pro Site & Septic — 980-888-2378 — info@prositeandseptic.com — https://prositeandseptic.com/
+3. Carolina Septic Pro — 980-500-1022 — info@carolinasepticpro.com — https://carolinasepticpro.com/
+4. T.W. Ammons Septic Service — 704-663-7631 — AmmonsSeptic@gmail.com — https://ammonsseptic.com/
+5. Lentz Septic — 704-876-1834 — office.lentzseptic@gmail.com — https://www.lentzseptic.com/
 
-## On charlotte.html — phone/site only (no verified inbox yet)
-2. Wind River Environmental (Charlotte) — 704-826-7741 — https://www.wrenvironmental.com/charlotte/
-3. Septic Blue of Charlotte — 704-464-2869 — https://www.septicbluecharlotte.com/
-4. Rapid Rooter — 704-659-1877 — https://rapidrootercharlotte.com/septic-pumping-service/
-5. Clearwater Septic and Pumping — 704-630-5619 — https://www.clearwatersepticandpumping.com/septic-system-inspection
-
-Checked 2026-09-11: Wind River, Septic Blue, Rapid Rooter, Clearwater contact pages show phone/forms only — no mailto on the shop sites.
+## Removed (no published inbox on shop site)
+- Wind River Environmental (Charlotte) — 704-826-7741
+- Septic Blue of Charlotte — 704-464-2869
+- Rapid Rooter — 704-659-1877
+- Clearwater Septic and Pumping — 704-630-5619
